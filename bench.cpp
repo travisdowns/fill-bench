@@ -2,7 +2,6 @@
 #include "env.hpp"
 #include "hedley.h"
 #include "opt-control.h"
-#include "tsc-support.hpp"
 
 #include <assert.h>
 #include <inttypes.h>
