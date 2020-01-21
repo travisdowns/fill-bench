@@ -1,6 +1,6 @@
 This is the supporting benchmark for [this post](https://travisdowns.github.io/blog/2020/01/20/zero.html) about the behavior of `std::fill` depending on the exactly type of the to-be-filled value.
 
-Right now it runs on Linux, but I intend to make it work on Windows.
+I have tested this on Linux and on Windows using Windows Subsystem for Linux.
 
 ## Build
 
